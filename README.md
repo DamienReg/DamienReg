@@ -6,7 +6,7 @@
 Je travaille actuellement sur mon portfolio en ligne où vous pouvez consulter mes projets et réalisations. Si vous êtes intéressé, n'hésitez pas à le visiter en cliquant sur l'image ci-dessous :
 
 <div align="center">
-  <a href="https://damien-regnault.fr" target="_blank">
+  <a href="https://damien-regnault.fr">
     <img src="https://raw.githubusercontent.com/DamienReg/DamienReg/main/images/logo.png" alt="Mon Portfolio" width="200" height="200"/>
   </a>
 </div>
