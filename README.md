@@ -5,7 +5,7 @@
 ### Portfolio
 Je travaille actuellement sur mon portfolio en ligne où vous pouvez consulter mes projets et réalisations. Si vous êtes intéressé, n'hésitez pas à le visiter en cliquant sur l'image ci-dessous :
 
-[![Mon Portfolio](https://github.com/DamienReg/DamienReg/blob/main/images/logo.png)](https://ton-portfolio.com)
+[![Mon Portfolio](https://github.com/DamienReg/DamienReg/blob/main/images/logo.png)](https://damien-regnault.fr)
 
 ### Compétences
 - **Web** : HTML, CSS, JavaScript, React
